@@ -20,11 +20,11 @@ The app currently includes several mini-games:
 
 Make sure you have the following installed:
 
-Node.js
+- Node.js
 
-Expo CLI
+- Expo CLI
 
-Expo Go mobile application
+- Expo Go mobile application
 
 ## ⚙️ Installation
 
@@ -44,3 +44,4 @@ Enjoy using my app!
 
 Shenna Jane B. Guancia
 BS Information Systems – Business Application Development
+West Visayas State University - Main Campus
