@@ -43,5 +43,5 @@ Enjoy using my app!
 ## 👩‍💻 Developer
 
 Shenna Jane B. Guancia
-BS Information Systems – Business Application Development
-West Visayas State University - Main Campus
+📊 BS Information Systems – Business Application Development
+🏫 West Visayas State University - Main Campus
